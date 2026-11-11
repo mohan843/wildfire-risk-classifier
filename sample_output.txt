@@ -1,0 +1,3 @@
+$ python classifier.py --temperature-c 18 --humidity-pct 72 --wind-kph 8 --dryness-index 18
+Training accuracy: 100.0%
+Predicted wildfire risk: low
